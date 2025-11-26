@@ -1,0 +1,2 @@
+# Žádné externí závislosti
+# Projekt používá pouze Python standard library
